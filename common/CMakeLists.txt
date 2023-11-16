@@ -1,6 +1,6 @@
 target_sources(${PROJECT_NAME}
     PRIVATE
-    # {{BEGIN_TARGET_SOURCES}}
+    # {{BEGIN_TARGET_SOURCES}} test
 	${CMAKE_CURRENT_LIST_DIR}/src/gx_accordion_menu_create.c
 	${CMAKE_CURRENT_LIST_DIR}/src/gx_accordion_menu_draw.c
 	${CMAKE_CURRENT_LIST_DIR}/src/gx_accordion_menu_event_process.c
